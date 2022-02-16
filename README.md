@@ -23,7 +23,7 @@ Give print.
 ## PROGRAM: 
 ~~~
 # Developed by : Dhanush. S
-# Ref no: 212221230020
+# Reg no: 212221230020
 # To write a program for getting the word count from the contents of a file using command line arguments.
 
 import sys
