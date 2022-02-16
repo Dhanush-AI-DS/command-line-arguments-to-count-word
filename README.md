@@ -24,7 +24,7 @@ Give print.
 # Developed by : Dhanush. S
 # Ref no: 212221230020
 # To write a program for getting the word count from the contents of a file using command line arguments.
-
+~~~
 import sys
 
 with open(sys.argv[1],'r') as f:
@@ -33,7 +33,7 @@ with open(sys.argv[1],'r') as f:
         word =i.split()
         num_of_words += len(word)
 print("Number of words={}".format(num_of_words)) 
- 
+~~~
 
 ### OUTPUT:
 ![clap](https://user-images.githubusercontent.com/95356096/154281684-7d5f13c5-0464-41bb-89cf-d5f334bd5cce.png)
