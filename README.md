@@ -38,7 +38,7 @@ print("Number of words={}".format(num_of_words))
 
 ### OUTPUT:
 ![clap](https://user-images.githubusercontent.com/95356096/154281684-7d5f13c5-0464-41bb-89cf-d5f334bd5cce.png)
-![clat](https://user-images.githubusercontent.com/95356096/154281787-306335d1-9286-428a-88a7-dc82833c2519.png)
+![clat](https://user-images.githubusercontent.com/95356096/154282924-811941f4-1d60-44b4-8d1b-e987f81377ac.png)
 
 
 
